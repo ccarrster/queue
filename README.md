@@ -16,3 +16,32 @@ TODO
 Add page=display -> a queue specific public display for the one queue. Similar to Pizza Hut or McDonalds order screens.
 Add page=terminal -> a queue specific add page that will run not on your phone, but on a physical terminal.
 Add page=>reports -> review and export a series of queue reports. Time in queue, no shows etc, number of customers per day etc.
+
+
+More notes
+
+Queueing System
+
+Register
+Get updates
+Get notifications - soon
+Back on site
+Notification of you are now
+Getting help
+Cancel/delay
+Reports
+
+API links
+Plugin to app -> end points
+Text messages
+Multi-site
+PII?
+Scenario for story -> shop example.
+
+Users
+Cell Phone customers -> QR code or url register, cancel
+Cookies, check back in
+Terminal Customers -> Touch screen/keyboard mouse/tablet
+Everyone same… Single entry only?, check back in
+Display Customers -> TV -> read only who is next, how many in line, instructions, QR code to scan?
+Terminal Employees -> touch screen/keyboard see list, say you are servicing/remove. No shows. Send messages… now helping X via email/text/phone or say their name. Flash up on the screen.
